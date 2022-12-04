@@ -11,6 +11,8 @@ her kan dere ser litt mer kode av de forskjellige oppgavene i oppgavene, det gå
 * 3: klasser og arv uten å bruke arv
     * samme som i oppgave 2, men du lager toString metoder også videre selv
 * 4: fxml
+  * bruk av knapper også videre og basic logikk som skal kodes i **kontrolleren**
+
 
 javafx fungerer ikke hvis dere tar å cloner repoet, dette er fordi at kontrolleren er kodet på utsiden av prosjektypen til fxml
 
