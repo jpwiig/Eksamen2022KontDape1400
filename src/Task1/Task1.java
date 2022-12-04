@@ -21,8 +21,8 @@ public class Task1 {
         int end = 0;
         for (int i = start; i > -10; i--){ //iterates backward
             System.out.print(i + ", ");
-            end = i;
+            end = i -1;
         }
-        System.out.print(end - 1); //lazy mans solution
+        System.out.print(end); //lazy mans solution
     }
 }
